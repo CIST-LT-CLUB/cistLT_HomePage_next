@@ -2,6 +2,7 @@
 
 # commit する前に
 
-prettier . --write
+`prettier . --write`
+
 で整形すること
 (ディレクトリのすべてのファイルを整形してくれる)
